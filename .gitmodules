@@ -1,0 +1,3 @@
+[submodule "TupleConversionsProject/QtTupleConversions"]
+	path = TupleConversionsProject/QtTupleConversions
+	url = https://github.com/RomandzeRoman/QtTupleConversions.git
